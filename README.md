@@ -1,5 +1,25 @@
 ## Professional Self-Assessment
-Filler for now
+Hi, my name is Ryan Hubbuck and I am in my final term at Southern New Hampshire University.
+I will be graduating with a Bachelor of Science (BS) in Computer Science, with a concentration
+in Software Development. While this has been a lengthy process, my coding journey actually began
+6+ years ago. I am a self-taught programmer who began by learning HTML, CSS, JavaScript, and Python, 
+and utilized these skills to begin as a Junior Software Engineer in 2021.
+
+Throughout this program I have gained valuable skills and exposure to technologies that are not
+within my day-to-day tech stack. While I have learned a great deal in my time in the program, 
+the three most important concepts or skills include an understanding of data structures and algorithms, 
+the importance of and how to better implement unit testing, and the importance of developing a 
+well-designed development plan and considering security or possible vulnerabilities throughout the 
+entire software development lifecycle. In addition to these skills, I have also gained valuable experience 
+writing programs in Java and C++, which are widely-used, and more strictly structured languages.
+
+My career plans involve the progression from an entry/mid-level software engineer to eventually work as a 
+senior software engineer. While this will be a lengthy process, each one of these skills will be necessary 
+to reach my ultimate career goal. Understanding data structures and algorithms, best-coding practices, and 
+security practices are essential for any software engineer, and will help me be a better programmer in my 
+current and future roles. In addition, the communication skills developed during this process will be 
+invaluable, because software engineers at higher levels need to be effective communicators with both 
+technically savvy and non-technical individuals. 
 
 ## Original Artifact
 The original artifact was a C++ program designed in CS-300. The goal was to allow users to 
