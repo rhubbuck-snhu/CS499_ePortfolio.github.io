@@ -66,6 +66,25 @@ and CourseLoader.cpp/.h. This separation of classes follows object-oriented prog
 the codebase easier to manage in the future and provide the opportunity to reuse certain elements within other 
 components.
 
+This milestone primary addresses course outcomes 2, 4, and 5. The additional features created to address the 
+‘Software Engineering and Design’ enhancements required the inclusion of high-quality documentation to explain 
+code functionality, which aligns with delivering professional-quality written communication. Additionally, these 
+additional features were designed, developed, and then integrated into the existing codebase by aligning with 
+industry-specific goals and by following best practices related to C++. These added features allow users to dynamically 
+create, update, and delete data also deliver value to users. Finally, many layers of security were added to the project 
+including input validation and data cleaning, error handling, pointer cleanup, and general memory management, and all 
+these features align with the outcome related to developing a security mindset to anticipate exploits, mitigate design 
+flaws, and enhance the security of data and resources.  
+
+This planned enhancement demonstrated many specific skills cultivated throughout the course of this program that align 
+with course outcomes. First, problem solving and thorough analytic skills was required to identify shortcomings of the 
+original program and plan how new features can be integrated most effectively. I also demonstrated my understanding of 
+object-oriented programming and coding best practices by writing concise code and creating documentation for review. 
+Next, my understanding of security vulnerabilities, adherence to security best practices, and understanding of how 
+to catch and handle errors or exceptions were required to create a robust system that is fortified. Finally, the inclusion 
+of memory management demonstrated my general computer science knowledge including how programs execute, pointers, and 
+how the call stack operates within the operating system. 
+
 The main challenge associated with modifying this artifact was fully understanding the functionality of code that 
 was written over a year ago, and then being able to properly identify vulnerabilities and how to integrate fixes 
 into the code. Most of my time during this Milestone was spent analyzing and reverse-engineering the code and 
@@ -88,6 +107,13 @@ balance the tree via left or right rotations were the most novel concepts to me.
 a greater understanding of balanced trees in general, and more specifically I learned the process of checking the 
 height of a node’s children and then rotating that node in various ways to produce a balanced tree.
 
+This planned enhancement of the underlying data structures and algorithms of the program demonstrated many 
+fundamental skills expected of all software engineers. To ensure optimal program efficiency and a smooth user 
+experience, I demonstrated my understanding of programming data structures, my knowledge of binary trees and 
+how they compare to vectors, my understanding of sorting algorithms, and my ability to debug processes. This category 
+also allowed me to demonstrate my understanding of general coding best practices and my proficiency using the C++ 
+language, which is one of the most common programming languages. 
+
 I was able to meet all the course outcomes that I planned on meeting, and the work produced during this module 
 most closely relates to course outcome 3. I successfully analyzed the original software and data structure to identify 
 areas of improvement, designed a new data structure, programmed the data structure, and then integrated the structure 
@@ -106,6 +132,19 @@ new database and table, but I also prevented SQL injection through secure coding
 Furthermore, this was my first time creating an SQL trigger. The trigger functions by updating a timestamp column any 
 time a row is created or updated. This is particularly useful in real-world applications for keeping track of data changes. 
 This trigger creation was the toughest part of this module because I was unsure of the proper syntax to use within SQLite.
+
+The database enhancement demonstrated specific skills related to SQL, general database use and integration, and security. 
+I was also able to show my ability to write SQL queries and to use more advanced techniques like SQL triggers. Additionally, 
+I showed my ability to thoughtfully plan out and design a database to ensure optimal functionality with a program. Furthermore, 
+I demonstrated my understanding of various security vulnerabilities related to database integration including SQL injection and 
+buffer overflow, and I planned how to protect the program and implement those changes. 
+
+The work completed within the ‘Database’ category most closely aligned with course outcomes 4 and 5. In the original program there 
+was no database present whatsoever, so the entire database needed to be designed, developed, and integrated from scratch. The 
+inclusion of a database delivered value to future users because this allows far more robust features to exist when compared to the 
+original program. This required a demonstration of well-founded and innovative skills to create the database properly, and I needed 
+to include tools not present in the original program such as SQLite. Furthermore, a security mindset was required to be developed to 
+anticipate attacks like SQL injections, and to properly reduce security vulnerabilities by properly protecting data input and database connections. 
 
 [Original Codebase](https://github.com/rhubbuck-snhu/cs300final)
 
