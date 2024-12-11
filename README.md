@@ -85,14 +85,6 @@ to catch and handle errors or exceptions were required to create a robust system
 of memory management demonstrated my general computer science knowledge including how programs execute, pointers, and 
 how the call stack operates within the operating system. 
 
-The main challenge associated with modifying this artifact was fully understanding the functionality of code that 
-was written over a year ago, and then being able to properly identify vulnerabilities and how to integrate fixes 
-into the code. Most of my time during this Milestone was spent analyzing and reverse-engineering the code and 
-planning exactly how I could add functionality without negatively affecting the already functional code. 
-Furthermore, the process of designing the entire system, classes, and inheritance was somewhat tedious, 
-but through the use of brainstorming and a UML Class Diagram, I now feel that the program is far more robust and 
-aligns better with industry standards.
-
 [Original Codebase](https://github.com/rhubbuck-snhu/cs300final)
 
 [Enhanced Artifact](https://github.com/rhubbuck-snhu/artifact1)
